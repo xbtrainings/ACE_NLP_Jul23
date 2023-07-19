@@ -11,7 +11,7 @@ July 20-21 2023
 ### Cloud Machine : Google Colab (Free GPU)
 
 * Follow this Notebook installation :<br>
-https://colab.research.google.com/github/xb-trainings/ACE_NLP_Jul23/blob/master/codes/installation/installation.ipynb
+https://colab.research.google.com/github/xbtrainings/ACE_NLP_Jul23/blob/main/codes/installation/installation.ipynb
 
 * Open your Google Drive :<br>
 https://www.google.com/drive
